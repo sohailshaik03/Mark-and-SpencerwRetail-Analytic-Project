@@ -1,6 +1,7 @@
 # Mark-and-SpencersRetail-Analytic-Project
 
 Retail Analytics Dataset Creation – Marks & Spencer–Style Synthetic Data
+
 Author: Sohail Shaik 
 Date:  09/08/2025 6:54 pm 
 Role: Data Analyst / Data Engineer
